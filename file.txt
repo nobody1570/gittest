@@ -3,7 +3,11 @@ Dit is een file:
 2
 3
 4
+<<<<<<< HEAD
 3
+=======
+8
+>>>>>>> development
 6
 7
 8
